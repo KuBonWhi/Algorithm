@@ -1,5 +1,9 @@
 # Algorithm
 
+## [2021.08.05]
+
+- 1260 DFS와 BFS(BaekJoon)
+
 ## [2021.07.30]
 
 - 1966 프린터 큐(BaekJoon)
