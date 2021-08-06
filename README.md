@@ -1,5 +1,9 @@
 # Algorithm
 
+## [2021.08.06]
+
+- 2178 미로 탐색(BaekJoon)
+
 ## [2021.08.05]
 
 - 1260 DFS와 BFS(BaekJoon)
