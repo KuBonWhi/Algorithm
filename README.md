@@ -1,5 +1,9 @@
 # Algorithm
 
+## [2021.10.05]
+
+- 5904 Moo 게임(BaekJoon)
+
 ## [2021.10.01]
 
 - 5567 결혼식(BaekJoon)
