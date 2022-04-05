@@ -1,1 +1,1 @@
-  console.log(input);
+solution(["I 7", "I 5", "I -5", "D -1"]);
