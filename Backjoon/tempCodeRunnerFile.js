@@ -1,1 +1,1 @@
- while(1){
+  console.log(num, l, r);
