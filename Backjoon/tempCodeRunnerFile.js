@@ -1,1 +1,2 @@
-  console.log(num, l, r);
+
+    list[start - 1][end - 1] = price;
